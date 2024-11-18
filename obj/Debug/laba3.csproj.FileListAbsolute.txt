@@ -1,0 +1,135 @@
+C:\Users\Asus\source\repos\laba3\obj\Debug\laba3.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\laba3\obj\Debug\laba3.Form1.resources
+C:\Users\Asus\source\repos\laba3\obj\Debug\laba3.Properties.Resources.resources
+C:\Users\Asus\source\repos\laba3\obj\Debug\laba3.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\laba3\bin\Debug\laba3.exe.config
+C:\Users\Asus\source\repos\laba3\bin\Debug\laba3.exe
+C:\Users\Asus\source\repos\laba3\bin\Debug\laba3.pdb
+C:\Users\Asus\source\repos\laba3\bin\Debug\Azure.Core.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\Azure.Data.Tables.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\Azure.Storage.Blobs.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\Azure.Storage.Common.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Buffers.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.ClientModel.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.IO.Hashing.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Memory.Data.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Memory.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\source\repos\laba3\bin\Debug\Azure.Core.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\Azure.Data.Tables.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\Azure.Storage.Blobs.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\Azure.Storage.Common.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Buffers.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.ClientModel.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.IO.Hashing.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Memory.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Memory.Data.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Text.Json.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\source\repos\laba3\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\source\repos\laba3\obj\Debug\laba3.csproj.Up2Date
+C:\Users\Asus\source\repos\laba3\obj\Debug\laba3.exe
+C:\Users\Asus\source\repos\laba3\obj\Debug\laba3.pdb
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\laba3.exe.config
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\laba3.exe
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\laba3.pdb
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\Azure.Core.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\Azure.Data.Tables.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\Azure.Storage.Blobs.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\Azure.Storage.Common.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Buffers.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.ClientModel.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.IO.Hashing.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Memory.Data.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Memory.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Numerics.Vectors.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Text.Encodings.Web.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Text.Json.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.ValueTuple.dll
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\Azure.Core.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\Azure.Data.Tables.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\Azure.Storage.Blobs.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\Azure.Storage.Common.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Buffers.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.ClientModel.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.IO.Hashing.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Memory.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Memory.Data.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Numerics.Vectors.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Text.Encodings.Web.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Text.Json.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\bin\Debug\System.ValueTuple.xml
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\obj\Debug\laba3.csproj.AssemblyReference.cache
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\obj\Debug\laba3.Form1.resources
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\obj\Debug\laba3.Properties.Resources.resources
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\obj\Debug\laba3.csproj.GenerateResource.cache
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\obj\Debug\laba3.csproj.Up2Date
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\obj\Debug\laba3.exe
+D:\вікторія навчання 1 семестр\хмарні технології\laba3Sofa\obj\Debug\laba3.pdb
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\laba3.exe.config
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\laba3.exe
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\laba3.pdb
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\Azure.Core.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\Azure.Data.Tables.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\Azure.Storage.Blobs.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\Azure.Storage.Common.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.ClientModel.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.IO.Hashing.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Memory.Data.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\Azure.Core.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\Azure.Data.Tables.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\Azure.Storage.Blobs.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\Azure.Storage.Common.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.ClientModel.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.IO.Hashing.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Memory.Data.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\laba3Sofa\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\laba3Sofa\obj\Debug\laba3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\laba3Sofa\obj\Debug\laba3.Form1.resources
+C:\Users\user\Desktop\laba3Sofa\obj\Debug\laba3.Properties.Resources.resources
+C:\Users\user\Desktop\laba3Sofa\obj\Debug\laba3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\laba3Sofa\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\laba3Sofa\obj\Debug\laba3.csproj.Up2Date
+C:\Users\user\Desktop\laba3Sofa\obj\Debug\laba3.exe
+C:\Users\user\Desktop\laba3Sofa\obj\Debug\laba3.pdb
